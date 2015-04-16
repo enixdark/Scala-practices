@@ -19,3 +19,5 @@ project/plugins/project/
 #bower
 bower_components
 *.zip
+.idea
+>>>>>>> 4b4845022a4ffefbabc69f1403bbc89f34cfa665
